@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Skat</name>
+    </assembly>
+    <members>
+        <member name="M:Skat.Afgift.Bilafgift(System.Int32)">
+            <summary>
+            Metode til at udregne afgiften på biler som ikke er elbiler.
+            Metoden er delt op i to.
+            En med biler med en pris til om med 200000
+            og en med biler med en pris på over 200000
+            </summary>
+            <param name="pris"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Skat.Afgift.ElBilAfgift(System.Int32)">
+            <summary>
+            Metode til at udregne afgiften på elbiler.
+            Metoden er delt op i to.
+            En med elbiler der har en pris til og med 200000
+            og en med elbiler der har en pris på mere end 200000
+            </summary>
+            <param name="pris"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+C:\Users\Denni\source\repos\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.deps.json
+C:\Users\Denni\source\repos\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.json
+C:\Users\Denni\source\repos\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.dev.json
+C:\Users\Denni\source\repos\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.dll
+C:\Users\Denni\source\repos\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.pdb
+C:\Users\Denni\source\repos\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\Skat.dll
+C:\Users\Denni\source\repos\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\Skat.xml
+C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csprojAssemblyReference.cache
+C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfo.cs
+C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CopyComplete
+C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.dll
+C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.pdb
