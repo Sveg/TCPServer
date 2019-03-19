@@ -12,3 +12,17 @@ C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServe
 C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CopyComplete
 C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.dll
 C:\Users\Denni\source\repos\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.pdb
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.deps.json
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.json
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.dev.json
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.dll
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.pdb
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\Skat.dll
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\Skat.xml
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csprojAssemblyReference.cache
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfoInputs.cache
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfo.cs
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CopyComplete
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.dll
+C:\Source\Mock opgave 1\TCPServer\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.pdb
